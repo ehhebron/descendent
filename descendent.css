@@ -1,0 +1,12 @@
+/* give only the links in the header: font size 30px & color teal */
+header a {
+    font-size: 30px;
+    color: teal;
+}
+
+#dislikes a {
+    font-weight: bold;
+    color: red;
+}
+
+/*give only the links inside the p with id 'dislikes': bolded, color red */
